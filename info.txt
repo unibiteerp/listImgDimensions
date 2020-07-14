@@ -1,0 +1,647 @@
+======== C:/Users/Preeti/Codes/dataset/tapir/exiftool.exe.exe
+======== C:/Users/Preeti/Codes/dataset/tapir/info.txt
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap1.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap10.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap100.jpeg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap101.jpeg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap102.jpeg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap103.jpeg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap104.jpeg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap105.jpeg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap106.jpeg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap107.jpeg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap108.jpeg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap109.jpeg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap11.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap110.jpeg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap111.jpeg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap112.jpeg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap113.jpeg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap114.jpeg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap115.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap116.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap117.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap118.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap119.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap12.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap120.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap121.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap122.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap123.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap124.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap125.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap126.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap127.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap128.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap129.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap13.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap130.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap131.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap132.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap133.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap134.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap135.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap136.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap137.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap138.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap139.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap14.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap140.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap141.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap142.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap143.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap144.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap145.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap146.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap147.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap148.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap149.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap15.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap150.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap151.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap152.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap153.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap154.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap155.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap156.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap157.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap158.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap159.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap16.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap160.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap161.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap162.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap163.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap164.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap165.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap166.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap167.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap168.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap169.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap17.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap170.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap171.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap172.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap173.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap174.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap175.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap176.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap177.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap178.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap179.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap18.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap180.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap181.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap182.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap183.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap184.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap185.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap186.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap187.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap188.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap189.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap19.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap190.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap191.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap192.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap193.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap194.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap195.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap196.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap197.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap198.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap199.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap2.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap20.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap200.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap201.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap202.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap203.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap204.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap205.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap206.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap207.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap208.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap209.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap21.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap210.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap211.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap212.jpeg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap213.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap214.jpeg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap215.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap216.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap217.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap218.jpg
+ImageSize                       : 389x280
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap219.jpg
+ImageSize                       : 377x280
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap22.jpg
+ImageSize                       : 1300x866
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap220.jpg
+ImageSize                       : 750x563
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap221.jpg
+ImageSize                       : 1024x400
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap222.jpg
+ImageSize                       : 467x361
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap223.jpg
+ImageSize                       : 391x280
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap224.jpg
+ImageSize                       : 1600x1066
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap225.jpg
+ImageSize                       : 1300x957
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap226.jpg
+ImageSize                       : 1300x956
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap227.jpg
+ImageSize                       : 1300x1064
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap228.jpg
+ImageSize                       : 820x573
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap229.jpg
+ImageSize                       : 800x579
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap23.jpg
+ImageSize                       : 450x320
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap230.jpg
+ImageSize                       : 1300x821
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap231.jpg
+ImageSize                       : 1024x778
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap232.jpg
+ImageSize                       : 1000x667
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap233.jpg
+ImageSize                       : 480x320
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap234.png
+ImageSize                       : 910x624
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap235.jpg
+ImageSize                       : 390x280
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap236.jpg
+ImageSize                       : 390x280
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap237.jpg
+ImageSize                       : 351x199
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap238.jpg
+ImageSize                       : 4980x3468
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap239.jpg
+ImageSize                       : 700x467
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap24.jpg
+ImageSize                       : 500x500
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap240.jpg
+ImageSize                       : 1000x584
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap241.jpg
+ImageSize                       : 4137x2759
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap242.jpg
+ImageSize                       : 859x1390
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap243.jpg
+ImageSize                       : 1300x1036
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap244.jpg
+ImageSize                       : 450x320
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap245.jpg
+ImageSize                       : 450x320
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap246.jpg
+ImageSize                       : 450x320
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap247.jpg
+ImageSize                       : 390x280
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap248.jpg
+ImageSize                       : 910x480
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap249.jpeg
+ImageSize                       : 300x168
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap25.jpg
+ImageSize                       : 300x200
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap250.jpg
+ImageSize                       : 502x327
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap251.jpg
+ImageSize                       : 1024x768
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap252.jpg
+ImageSize                       : 1189x793
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap253.jpg
+ImageSize                       : 768x768
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap254.jpg
+ImageSize                       : 768x768
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap255.jpg
+ImageSize                       : 1189x793
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap256.jpg
+ImageSize                       : 1189x793
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap257.jpg
+ImageSize                       : 1189x793
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap258.jpg
+ImageSize                       : 1189x793
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap259.jpg
+ImageSize                       : 1920x1076
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap26.jpg
+ImageSize                       : 1024x681
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap260.jpg
+ImageSize                       : 1000x667
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap261.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap262.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap263.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap264.jpg
+ImageSize                       : 200x150
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap265.jpg
+ImageSize                       : 650x425
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap266.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap267.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap268.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap269.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap27.jpg
+ImageSize                       : 300x201
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap270.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap271.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap272.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap273.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap274.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap275.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap276.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap277.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap278.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap279.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap28.jpg
+ImageSize                       : 300x207
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap280.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap281.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap282.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap283.jpg
+ImageSize                       : 1280x853
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap284.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap285.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap286.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap287.jpg
+ImageSize                       : 1024x605
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap288.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap289.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap29.jpg
+ImageSize                       : 4842x3591
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap290.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap291.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap292.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap293.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap294.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap295.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap296.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap297.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap298.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap299.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap3.jpg
+ImageSize                       : 852x480
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap30.jpg
+ImageSize                       : 338x264
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap300.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap301.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap302.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap303.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap304.jpg
+ImageSize                       : 300x300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap305.jpg
+ImageSize                       : 2048x1536
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap306.jpeg
+ImageSize                       : 867x650
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap307.jpg
+ImageSize                       : 745x538
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap308.jpg
+ImageSize                       : 618x410
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap309.jpg
+ImageSize                       : 660x495
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap31.jpg
+ImageSize                       : 351x264
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap310.jpg
+ImageSize                       : 2048x2046
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap311.jpg
+ImageSize                       : 400x600
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap312.jpg
+ImageSize                       : 800x533
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap313.jpg
+ImageSize                       : 5197x3464
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap314.jpg
+ImageSize                       : 1000x667
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap315.jpg
+ImageSize                       : 1024x751
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap316.jpg
+ImageSize                       : 725x544
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap317.jpg
+ImageSize                       : 428x285
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap318.jpg
+ImageSize                       : 1300x956
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap319.jpg
+ImageSize                       : 500x333
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap32.jpg
+ImageSize                       : 364x264
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap320.jpg
+ImageSize                       : 1300x957
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap321.jpg
+ImageSize                       : 1300x1062
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap33.jpg
+ImageSize                       : 316x206
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap34.jpg
+ImageSize                       : 1739x1191
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap35.jpg
+ImageSize                       : 1763x1175
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap36.jpeg
+ImageSize                       : 288x204
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap37.jpg
+ImageSize                       : 768x960
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap38.jpg
+ImageSize                       : 600x450
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap39.jpg
+ImageSize                       : 768x451
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap4.jpg
+ImageSize                       : 852x480
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap40.jpg
+ImageSize                       : 1024x768
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap41.jpg
+ImageSize                       : 644x351
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap42.jpg
+ImageSize                       : 500x375
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap43.jpg
+ImageSize                       : 1172x800
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap44.jpg
+ImageSize                       : 1300x1065
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap45.jpg
+ImageSize                       : 1300x956
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap46.jpg
+ImageSize                       : 4500x3000
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap47.jpg
+ImageSize                       : 292x172
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap48.jpg
+ImageSize                       : 1300x899
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap49.jpg
+ImageSize                       : 378x280
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap5.jpg
+ImageSize                       : 852x480
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap50.jpg
+ImageSize                       : 349x280
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap51.jpg
+ImageSize                       : 1300x1059
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap52.jpg
+ImageSize                       : 2000x1333
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap53.jpg
+ImageSize                       : 1024x592
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap54.jpg
+ImageSize                       : 1300x951
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap55.jpg
+ImageSize                       : 600x420
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap56.jpg
+ImageSize                       : 1600x1155
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap57.jpg
+ImageSize                       : 1300x956
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap58.jpg
+ImageSize                       : 800x533
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap59.jpg
+ImageSize                       : 800x533
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap6.jpg
+ImageSize                       : 1200x800
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap60.jpg
+ImageSize                       : 703x541
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap61.jpg
+ImageSize                       : 800x446
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap62.jpg
+ImageSize                       : 910x639
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap63.jpg
+ImageSize                       : 800x533
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap64.jpg
+ImageSize                       : 800x533
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap65.png
+ImageSize                       : 1024x1024
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap66.jpg
+ImageSize                       : 450x448
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap67.jpg
+ImageSize                       : 1000x1080
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap68.jpg
+ImageSize                       : 1600x1167
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap69.jpg
+ImageSize                       : 1600x1300
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap7.jpg
+ImageSize                       : 600x400
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap70.jpg
+ImageSize                       : 608x342
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap71.jpg
+ImageSize                       : 608x342
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap72.jpg
+ImageSize                       : 647x921
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap73.jpg
+ImageSize                       : 1200x1090
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap74.jpg
+ImageSize                       : 800x517
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap75.jpg
+ImageSize                       : 5472x3648
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap76.jpg
+ImageSize                       : 1920x1080
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap77.jpg
+ImageSize                       : 1440x500
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap78.jpg
+ImageSize                       : 480x360
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap79.jpeg
+ImageSize                       : 300x168
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap8.jpg
+ImageSize                       : 1280x999
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap80.jpeg
+ImageSize                       : 299x168
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap81.jpeg
+ImageSize                       : 275x183
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap82.jpeg
+ImageSize                       : 259x194
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap83.jpeg
+ImageSize                       : 262x192
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap84.jpeg
+ImageSize                       : 275x183
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap85.jpeg
+ImageSize                       : 186x271
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap86.jpeg
+ImageSize                       : 295x171
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap87.jpeg
+ImageSize                       : 275x183
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap88.jpeg
+ImageSize                       : 259x194
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap89.jpeg
+ImageSize                       : 300x168
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap9.jpg
+ImageSize                       : 852x480
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap90.jpeg
+ImageSize                       : 275x183
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap91.jpeg
+ImageSize                       : 269x187
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap92.jpeg
+ImageSize                       : 275x183
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap93.jpeg
+ImageSize                       : 283x178
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap94.jpeg
+ImageSize                       : 236x214
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap95.jpeg
+ImageSize                       : 275x183
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap96.jpeg
+ImageSize                       : 275x183
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap97.jpeg
+ImageSize                       : 265x190
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap98.jpeg
+ImageSize                       : 275x183
+======== C:/Users/Preeti/Codes/dataset/tapir/Tap99.jpeg
+ImageSize                       : 269x187
+    1 directories scanned
+  323 image files read
+    2 files could not be read
